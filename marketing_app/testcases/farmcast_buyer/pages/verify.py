@@ -60,6 +60,8 @@ try:
 
 # hdjhjdshieiwe
 
+    # YIuieuiewruerwiuhdjdskierurroieuuiprurirwpuwuwiw
+
 
   root6 = shadow_root3.find_element_by_id('buy_crop')
   root6.click()
